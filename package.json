@@ -1,6 +1,6 @@
 {
 	"name": "browserify-substitution-mass-confusion",
-	"version": "0.1.337",
+	"version": "1.0.0",
 	"description": "Browserify plugin for substituting modules everywhere. It expands the package.json \"browser\" field to work for nested dependencies.",
 	"keywords": [
 		"browserify-plugin"
