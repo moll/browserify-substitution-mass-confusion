@@ -1,0 +1,6 @@
+/*.tgz
+/.editorconfig
+
+# Ignoring tests as they depend on ./test/bundle/node_modules, but I can't get
+# NPM to include that.
+/test/

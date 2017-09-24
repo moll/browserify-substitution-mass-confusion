@@ -1,0 +1,8 @@
+{
+	"private": true,
+
+	"browser": {
+		"a": "./fake_a.js",
+		"c": "./node_modules/b/node_modules/c/fake_index.js"
+	}
+}
